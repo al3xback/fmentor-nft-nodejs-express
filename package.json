@@ -1,7 +1,7 @@
 {
 	"name": "fmentor-nft-nodejs-express",
 	"version": "1.0.0",
-	"description": "nft project using nodejs with express framework",
+	"description": "nft preview card component using nodejs with express framework",
 	"main": "app.js",
 	"scripts": {
 		"start-sass": "sass --watch src/scss/main.scss public/css/main.css",
