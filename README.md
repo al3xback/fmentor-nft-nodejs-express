@@ -8,20 +8,20 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 
 Users should be able to:
 
--   View the optimal layout depending on their device's screen size
--   See hover states for interactive elements
+- View the optimal layout depending on their device's screen size
+- See hover states for interactive elements
 
 ## My process
 
 ### Built with
 
--   Semantic HTML5 markup
--   Nodejs
--   Express
--   Mobile-first workflow
+- Semantic HTML5 markup
+- Nodejs
+- Express
+- Mobile-first workflow
 
 ## Author
 
--   Frontend Mentor - [@al3xback](https://www.frontendmentor.io/profile/al3xback)
--   Codepen - (https://codepen.io/Al3xback)
--   Twitter - [@al3x_back](https://twitter.com/al3x_back)
+- Frontend Mentor - [@al3xback](https://www.frontendmentor.io/profile/al3xback)
+- Codepen - (https://codepen.io/Al3xback)
+- Twitter - [@al3x_back](https://twitter.com/al3x_back)
