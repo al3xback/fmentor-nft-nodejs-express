@@ -6,14 +6,13 @@
 	"scripts": {
 		"start": "nodemon app.js",
 		"start-server": "node app.js",
-
 		"sass-dev": "sass --watch src/scss/main.scss public/css/main.css",
 		"sass-prod": "sass src/scss/main.scss public/css/main.css --style=compressed --no-source-map",
 		"postcss": "postcss public/css/main.css -o public/css/main.css --use autoprefixer --no-map",
 		"prettier": "prettier --write .",
 		"dev": "run-s sass-dev",
 		"lint": "run-s prettier",
-		"build": "run-s sass-prod postcss"
+		"build": "run-s lint sass-prod postcss"
 	},
 	"repository": {
 		"type": "git",
